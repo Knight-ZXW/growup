@@ -6,5 +6,8 @@
 
 ## ES6 特性指南
 
+[阮一峰的 ES6指南]
+(http://es6.ruanyifeng.com/#docs/)
 [infoQ 深入浅出 ES6]
 (http://www.infoq.com/cn/es6-in-depth/)
+
