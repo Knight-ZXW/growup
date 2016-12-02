@@ -11,3 +11,7 @@
 [infoQ 深入浅出 ES6]
 (http://www.infoq.com/cn/es6-in-depth/)
 
+## React.Js 技术栈
+### 细节
+[JSON数据范式化]
+(https://yq.aliyun.com/articles/3168)
